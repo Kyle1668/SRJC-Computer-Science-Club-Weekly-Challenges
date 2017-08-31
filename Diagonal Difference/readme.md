@@ -11,10 +11,10 @@ Print the absolute difference between the two sums of the matrix's diagonals as 
 
 Enter Dimensions: 4
 
-5 8 6 3 
-5 9 7 9 
-9 2 1 9 
-7 9 1 3 
+##### 5 8 6 3 
+#####5 9 7 9 
+#####9 2 1 9 
+#####7 9 1 3 
 
 Left Diagonal: 18
 Right Diagonal: 19
